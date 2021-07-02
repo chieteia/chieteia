@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/ntoshihi?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
-![Alt Text](https://pics.prcm.jp/3eb460411c371/84668082/gif/84668082.gif)![Nishipy%27s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chieteia)
