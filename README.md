@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/ntoshihi?cursus=42cursus)](https://github.com/JaeSeoKim/badge42.git)
+[![ntoshihi's 42 stats](https://badge42.vercel.app/api/v2/cl2rubnji004909l2r84rf24q/stats?cursusId=21&coalitionId=63)](https://github.com/JaeSeoKim/badge42)
